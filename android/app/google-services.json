@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785589973114",
+    "project_id": "innovation-api-4b952",
+    "storage_bucket": "innovation-api-4b952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785589973114:android:dafd8d19d324ae6c028bc3",
+        "android_client_info": {
+          "package_name": "com.innovation.app_innovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785589973114-imr1og3tf5p29vtd0ono7hdjn7lg048h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTnOx7QjxZyNhvAmRTh24MwvGdIIArdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785589973114-imr1og3tf5p29vtd0ono7hdjn7lg048h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785589973114-tj4a8c5desm2oq28a15drc1qo13r3ros.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
